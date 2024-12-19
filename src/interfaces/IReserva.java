@@ -9,5 +9,4 @@ public interface IReserva {
     void setFechaInicio();
     void setFechaFin();
     void setHoraLlegada();
-    void setCantidadHabitacion();
 }
